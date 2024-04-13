@@ -1,2 +1,2 @@
 # learnGitandGithub
-This is a demo folder for learning git and github
+This is a demo folder for learning git and github.
